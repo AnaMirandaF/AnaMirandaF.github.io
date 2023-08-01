@@ -1,0 +1,43 @@
+#fotoCV { 
+    width: 90px; height: 90px;
+    border-radius: 80%;
+    float: left;
+    
+
+}
+    
+h1 {
+    width: 100vh;
+    font-family: sans-serif;
+    color: #303030;
+    position: relative;top: 10px; left:6px;
+}
+
+h3 {
+    color: #14A2A6;
+    position: relative; top: 15px;
+}
+
+h2 {
+    color: #14A2A6;
+    position: relative; bottom: 20px; left:6px;
+}
+
+img.fotoEdu {
+    float: left;
+    position: relative;top: 10px; right:3px;
+}
+
+li.eduText {
+    position: relative; bottom: 10px; left:50px;
+}
+
+
+img.fotoExpLab {
+    float: left;
+    position: relative;top: 16px; right:3px;
+}
+
+#TextoAbajoTester {
+    position: relative; bottom: 17px; left: 35px;
+}
